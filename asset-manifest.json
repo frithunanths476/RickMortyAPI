@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.abb5013a.css",
-    "main.js": "/static/js/main.9eab8292.js",
+    "main.js": "/static/js/main.c12e9ae1.js",
     "static/js/787.38b0d000.chunk.js": "/static/js/787.38b0d000.chunk.js",
     "static/media/API Rick & morty (1).png": "/static/media/API Rick & morty (1).44d6f56321909d7267c9.png",
     "static/media/fundo.png": "/static/media/fundo.8240fe804e3e74606b18.png",
@@ -11,11 +11,11 @@
     "static/media/lupa.png": "/static/media/lupa.319d5c73e3e9266b1b1d.png",
     "index.html": "/index.html",
     "main.abb5013a.css.map": "/static/css/main.abb5013a.css.map",
-    "main.9eab8292.js.map": "/static/js/main.9eab8292.js.map",
+    "main.c12e9ae1.js.map": "/static/js/main.c12e9ae1.js.map",
     "787.38b0d000.chunk.js.map": "/static/js/787.38b0d000.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abb5013a.css",
-    "static/js/main.9eab8292.js"
+    "static/js/main.c12e9ae1.js"
   ]
 }
